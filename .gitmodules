@@ -1,3 +1,6 @@
 [submodule "generator-library"]
 	path = generator-library
 	url = nju33.github:nju33/generator-library.git
+[submodule "generator-diz"]
+	path = generator-diz
+	url = nju33.github:nju33/generator-diz.git
