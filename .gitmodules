@@ -4,3 +4,6 @@
 [submodule "generator-diz"]
 	path = generator-diz
 	url = nju33.github:nju33/generator-diz.git
+[submodule "generator-maguplugin"]
+	path = generator-maguplugin
+	url = nju33.github:nju33/generator-maguplugin.git
